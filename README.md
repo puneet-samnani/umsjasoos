@@ -17,7 +17,7 @@ To test the bot you can follow these steps : -
 5.After downloading the config file type command in cmd     
      zulip-run-bot UmsJasoos --config-file "C:\~\zuliprc" 
 6.Open the Zulip Portal & type @jbot-bot@mstclpu.zulipchat.com  // here jbot is a default bot name you can use yours
-7.Start a chat
+7.Start a chat with the bot
 
 
 
